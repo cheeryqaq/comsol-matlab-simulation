@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL MATLAB Simulation"
+  short_description: "AI-written MATLAB scripts for COMSOL simulation workflows."
+  default_prompt: "Use $comsol-matlab-simulation to build and run reusable MATLAB / LiveLink scripts for my COMSOL simulation, batch related operations, and export results with logs."

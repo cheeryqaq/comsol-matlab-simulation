@@ -1,0 +1,21 @@
+# Generated simulation artifacts belong in a separate project.
+models/generated/
+results/
+logs/
+*.mph
+*.mphbin
+*.mphlock
+*.mat
+*.log
+*.asv
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+__pycache__/
+.DS_Store
+Thumbs.db
